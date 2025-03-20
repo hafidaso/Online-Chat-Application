@@ -145,5 +145,4 @@ License
 
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as needed.
 
-**Note**: Ensure the server is running before starting any clients. Check console output for potential error messages.
 
