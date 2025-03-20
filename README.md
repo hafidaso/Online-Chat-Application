@@ -87,10 +87,12 @@ Implementation Details
 
 ### Folder Structure
 
+```markdown
 project/
 ├── ChatServerGUI.java    # Server implementation with GUI
 ├── ChatClientGUI.java    # Client implementation with GUI
 └── README.md             # This file
+```
 
 
 ### Key Classes
@@ -131,7 +133,7 @@ Enhancements
 Contributors
 ------------
 
-\[Hafida Belayd\]Email: \[hafidabelaidagnaoui@gmail.com\]
+Hafida Belayd: hafidabelaidagnaoui@gmail.com
 
 License
 -------
