@@ -44,7 +44,11 @@ javac ChatClientGUI.java
 
 Run the server application:
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   java ChatServerGUI   `
+```bash
+java ChatServerGUI
+
+```
+
 
 The server will start listening for incoming client connections on port 12345.
 
@@ -52,7 +56,11 @@ The server will start listening for incoming client connections on port 12345.
 
 Open multiple terminal windows and run the client application:
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   java ChatClientGUI   `
+```bash
+java ChatClientGUI
+
+```
+
 
 #### Chat with Other Users
 
@@ -79,7 +87,11 @@ Implementation Details
 
 ### Folder Structure
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   1project/  2├── ChatServerGUI.java    # Server implementation with GUI  3├── ChatClientGUI.java    # Client implementation with GUI  4└── README.md             # This file   `
+project/
+├── ChatServerGUI.java    # Server implementation with GUI
+├── ChatClientGUI.java    # Client implementation with GUI
+└── README.md             # This file
+
 
 ### Key Classes
 
@@ -114,24 +126,12 @@ Enhancements
 *   Clear Chat functionality
     
 
-Future Improvements
--------------------
-
-*   Support for private messaging
-    
-*   User authentication
-    
-*   List of connected users
-    
-*   Emojis and rich text formatting
-    
-*   Mobile device optimization
     
 
 Contributors
 ------------
 
-\[Your Name\]Email: \[Your Email\]
+\[Hafida Belayd\]Email: \[hafidabelaidagnaoui@gmail.com\]
 
 License
 -------
